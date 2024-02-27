@@ -1,0 +1,2 @@
+Hello Server!!!
+This message will be pickled and send to the server using sockets.
